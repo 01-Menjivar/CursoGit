@@ -1,1 +1,5 @@
 Holaaa a todos
+<<<<<<< HEAD
+=======
+mensaje de prueba XD
+>>>>>>> ramab
